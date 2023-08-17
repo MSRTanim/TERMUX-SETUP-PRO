@@ -7,7 +7,9 @@ This is new termux user setup tools. It helps a new user to make him pro user.
 
 # Install System
 
-      rm -rf 
+      pkg intall git
+      pkg intall python -y
+      rm -rf TERMUX-SETUP-PRO
       git clone https://github.com/MSRTanim/TERMUX-SETUP-PRO.git
 	  ls
       cd TERMUX-SETUP-PRO
