@@ -14,7 +14,7 @@ This is new termux user setup tools. It helps a new user to make him pro user.
 	  ls
       cd TERMUX-SETUP-PRO
 	  ls
-      python3 Setup.py
+      python Pro-Setup.py
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=24F709&width=435&lines=%E2%9A%A0%EF%B8%8FONLY+TERMUX+TERMINAL+CAN+RUN+THIS%E2%9A%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 
